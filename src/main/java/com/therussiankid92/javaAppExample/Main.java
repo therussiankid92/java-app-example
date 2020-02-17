@@ -1,9 +1,6 @@
 package com.therussiankid92.javaAppExample;
 
-import java.io.InputStream;
-import java.io.PrintStream;
 import java.util.InputMismatchException;
-import java.util.Scanner;
 
 import static com.therussiankid92.javaAppExample.NumberToRomanConverter.convert;
 
